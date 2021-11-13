@@ -7,3 +7,10 @@
 | TASKS LIST |     DESCRIPTION     |     STATUS     |
 | ---------- |     -----------     |     ------     |
 | TASK-00    | Installing Ubuntu   | Completed      |
+| TASK-01    | Staring amFOSS repositories | Completed |
+| TASK-02 |                        |                |
+| TASK-03 |                        |                |
+| TASK-04 |                        |                |
+| TASK-05 |                        |                |
+| TASK-06 |                        |                |
+| TASK-07 |                        |                |
