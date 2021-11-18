@@ -24,7 +24,7 @@ projects:
   limit: 9
   exclude:
     archived: false
-    forks: true
+    forks: false
     projects:
     # - repo-name
 
@@ -62,3 +62,4 @@ topics:
   - name: Flutter
     web_url: https://github.com/flutter  
     image_url: https://avatars.githubusercontent.com/u/14101776?s=200&v=4
+    

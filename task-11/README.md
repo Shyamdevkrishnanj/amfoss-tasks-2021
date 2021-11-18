@@ -1,1 +1,2 @@
-
+# Poster Design
+I tried to express myself through the poster. I expect my college life would be fun as this poster. I guess I have conveyed my expectations through this poster. And CANVA made it easier for me...... 
