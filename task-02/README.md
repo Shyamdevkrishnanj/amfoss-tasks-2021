@@ -1,1 +1,1 @@
-It was a very useful task since it allowed me to learn more about cmd commands ang git commands. Every neccessary information was provided int link which made the task easier. I was first struggling to push it but later figuered it out. 
+It was a very useful task since it allowed me to learn more about cmd commands and git commands. Every neccessary information was provided int link which made the task easier. I was first struggling to push it but later figuered it out. 
