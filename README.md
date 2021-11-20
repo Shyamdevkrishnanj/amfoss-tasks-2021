@@ -9,10 +9,10 @@
 | [TASK-00](https://github.com/Shyamdevkrishnanj/amfoss-tasks/tree/main/task-00) | Installing Ubuntu | **Completed** |
 | [TASK-01](https://github.com/Shyamdevkrishnanj/amfoss-tasks/tree/main/task-01) | Staring amFOSS repositories| **Completed** |
 | [TASK-02](https://github.com/Shyamdevkrishnanj/amfoss-tasks/tree/main/task-02) | Coordinates-Location   | **Completed** |
-| [TASK-03](https://github.com/Shyamdevkrishnanj/amfoss-tasks/tree/main/task-03) | Programming | Not Completed (Attempted) |
+| [TASK-03](https://github.com/Shyamdevkrishnanj/amfoss-tasks/tree/main/task-03) | Programming | **Not Completed (Attempted)** |
 | [TASK-04](https://github.com/Shyamdevkrishnanj/amfoss-tasks/tree/main/task-04) | Aerglo Mars | **Completed** |
 | [TASK-05](https://github.com/Shyamdevkrishnanj/amfoss-tasks/tree/main/task-05) | Let me C | **Completed** |
-| [TASK-06](https://github.com/Shyamdevkrishnanj/amfoss-tasks/tree/main/task-06) | Flutter | Not Completed (Attempted) |
+| [TASK-06](https://github.com/Shyamdevkrishnanj/amfoss-tasks/tree/main/task-06) | Flutter | **Not Completed (Attempted)** |
 | [TASK-07](https://github.com/Shyamdevkrishnanj/amfoss-tasks/tree/main/task-07) | Rich Scrapper | Not Attempted till yet |
 | [TASK-08](https://github.com/Shyamdevkrishnanj/amfoss-tasks/tree/main/task-08) | JSExplorer | **Completed** |
 | [TASK-09](https://github.com/Shyamdevkrishnanj/amfoss-tasks/tree/main/task-09) | Personal-Website | **Completed** |
