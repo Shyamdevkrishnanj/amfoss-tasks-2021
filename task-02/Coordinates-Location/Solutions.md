@@ -10,8 +10,8 @@ cp- To move the file.
 ### git commands
 
 git init - initiating a new project
-git status - to display the working directory
 git add . - to add files in project directory
+git status - to display the working directory
 git commit -m"message"- to move files to commit
 git push origin branch-name- to upload local repository to a remote repository
 
