@@ -1,1 +1,1 @@
-I have partially completed the task. As time ran out, I wasn't able to resolve complete errors.Now the code is running but I am not able to get the desired output. Now the game is all set but there some minor issues.
+I have almost done the task. As time ran out, I wasn't able to resolve complete errors.Now the code is running but I am not able to get the desired output. Now the game is all set but there some minor issues.

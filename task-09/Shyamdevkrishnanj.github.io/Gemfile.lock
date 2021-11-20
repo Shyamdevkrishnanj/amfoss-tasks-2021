@@ -278,6 +278,7 @@ DEPENDENCIES
   github-pages
   jekyll-github-metadata
   jekyll-octicons
+  jekyll-theme-minimal
   jemoji
 
 BUNDLED WITH
